@@ -19,3 +19,6 @@ git clone git@github.com:reinaldoper/facilita.git
 ## Versão do react-vite:
 - "vite": "^5.1.4"
 - "react": "^18.2.0"
+- "react-bootstrap": "^2.10.1",
+- "react-modal": "^3.16.1",
+- "react-router-dom": "^6.22.2"
