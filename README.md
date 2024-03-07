@@ -16,3 +16,6 @@ git clone git@github.com:reinaldoper/facilita.git
 ### Obs:
 - Para esta aplicação funcionar corretamente, é necessário seguir os passos do back-end deste projeto.
 
+## Versão do react-vite:
+- "vite": "^5.1.4"
+- "react": "^18.2.0"
