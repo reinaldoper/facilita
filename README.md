@@ -9,6 +9,10 @@ git clone git@github.com:reinaldoper/facilita.git
 ```
 ---
 
+- cd facilita
 - npm install
 - npm run dev
+
+### Obs:
+- Para esta aplicação funcionar corretamente, é necessário seguir os passos do back-end deste projeto.
 
