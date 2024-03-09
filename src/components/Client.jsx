@@ -47,7 +47,7 @@ function Client() {
         </Modal.Header>
         <Modal.Body><ul className="list-group">
           { optimizedRoute.length && optimizedRoute.map((client) => (
-            <li className="list-group-item list" key={client.id}>{`${client.name}`}</li>
+            <li className="list-group-item list" key={client.id}>{`${client.name}-(${client.xcoordinate}, ${client.ycoordinate})`}</li>
           ))}
         </ul></Modal.Body>
         <Modal.Footer>
